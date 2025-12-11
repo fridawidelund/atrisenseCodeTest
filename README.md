@@ -19,5 +19,3 @@ Solution can be made in either C++ or Python.
 When done, please send us a link to the git repo/Pull reqeust or mail us the source code so we can invite you for a technical discussion.
 
 The atrisense.bin file was added to the repository for convenience. I dont usually commit data to a git repo :D
-
-The foxgloveExample code is copied from the python foxglove SDK page, for testing of foxglove.
